@@ -16,6 +16,10 @@ A simple and interactive calculator built with HTML, CSS, and JavaScript. This a
 - **CSS**: Styling and layout of the app.
 - **JavaScript**: Logic for calculations, history tracking, theme switching, and sound effects.
 
+ ## Live Demo
+
+You can view the live demo of the app here: [Live Demo - Calculator App](https://calculator-app-e0rd.onrender.com)
+
 ## How to Use
 
 1. Clone this repository to your local machine:
